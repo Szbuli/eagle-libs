@@ -71,7 +71,7 @@
 </layers>
 <library>
 <packages>
-<package name="DIN-MOUNT-2-HOLE">
+<package name="C45-DIN-MOUNT-2-HOLE">
 <hole x="0" y="12.5" drill="3"/>
 <hole x="0" y="-12.5" drill="3"/>
 <wire x1="-5" y1="-21.5" x2="5" y2="-21.5" width="0.127" layer="52"/>
